@@ -1,10 +1,10 @@
 # Site settings
-title: 苏打柠檬茶 Blog
-SEOTitle: 苏打柠檬茶的博客 | 苏打柠檬茶 Blog
+title: 苏打柠檬茶's Blog
+SEOTitle: 苏打柠檬茶的博客 | 苏打柠檬茶's Blog
 header-img: img/home-bg.jpg
 email: zl341190392@gmail.com
 description: "这里是 @苏打柠檬茶 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "苏打柠檬茶, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 苏打柠檬茶的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
